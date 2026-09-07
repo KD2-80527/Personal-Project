@@ -1,3 +1,3 @@
 # Personal-Project
 This is my Personal Project
-<br/>Author-Nirmal
+<br/>Author-Nirmal(software developer)
